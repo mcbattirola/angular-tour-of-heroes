@@ -1,6 +1,6 @@
 # Live demo
 
-https://angular-tour-of-heroes-mcbatt.herokuapp.com/
+https://eager-varahamihira-b90f4a.netlify.app/
 
 # AngularTourOfHeroes
 
