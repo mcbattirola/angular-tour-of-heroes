@@ -1,0 +1,9 @@
+<div class="position-container">
+    <div *ngIf="position else fetching">
+        <div>latitude: {{position.coords.latitude}}</div>
+        <div>longitude: {{position.coords.longitude}}</div>
+    </div>
+    <ng-template #fetching>
+        fetching your position
+    </ng-template>
+</div>

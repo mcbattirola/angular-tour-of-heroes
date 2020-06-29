@@ -1,0 +1,13 @@
+{
+    "appId": "tour.of.heroes",
+    "appName": "angular-tour-of-heroes",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "dist/angular-tour-of-heroes",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    },
+    "cordova": {}
+}
