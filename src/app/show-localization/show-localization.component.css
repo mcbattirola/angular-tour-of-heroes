@@ -1,0 +1,8 @@
+.position-container {
+    background-color: #fafaff;
+    border: 1px solid #607d8b;
+    border-radius: 0.5rem;
+    margin: 2rem 0;
+    padding: 0.5rem;
+    width: 100%;
+}
